@@ -1,0 +1,12 @@
+{
+  "name": "hacked-gold-vpro",
+  "version": "43.4.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
